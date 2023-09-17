@@ -1,0 +1,31 @@
+{
+  "name": "preliminar-nodejs",
+  "version": "0.0.1",
+  "description": "Projeto de demonstração",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angst2017/preliminar-nodejs.git"
+  },
+  "keywords":[
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "José Carlos Angst <jcangst@terra.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angst2017/preliminar-nodejs/issues"
+  },
+  "homepage": "https://github.com/Angst2017/preliminar-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

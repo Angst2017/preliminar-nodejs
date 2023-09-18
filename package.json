@@ -1,6 +1,6 @@
 {
   "name": "preliminar-nodejs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Projeto de demonstração",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Angst2017/preliminar-nodejs.git"
   },
-  "keywords":[
+  "keywords": [
     "nodejs",
     "express",
     "demo"
@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/Angst2017/preliminar-nodejs#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "line-reader": "^0.4.0",
+    "readline": "^1.3.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "jest": "^29.7.0"

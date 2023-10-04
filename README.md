@@ -1,6 +1,6 @@
-# prelkiminar-nodejs
+# preliminar-nodejs
 
-Projeto de demonstração da fase premilinar do consumno dos dados do PPA-Participativo 2023
+Projeto de demonstração da fase premilinar do consumo dos dados do PPA-Participativo 2023
 
 ## Módulo: lendoPlanilhas1.js
 
